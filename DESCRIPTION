@@ -1,6 +1,6 @@
 Package: DateTimeRangePicker
 Title: A Datetime Range Picker Widget for Usage in 'Shiny' Applications
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person("Stéphane", "Laurent", , "laurent_step@outlook.fr", role = c("aut", "cre")),
     person("Wojciech", "Maj", role = "cph",
@@ -16,9 +16,9 @@ Imports: htmltools, lubridate, reactR, shiny
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-04-17 09:23:37 UTC; stla
+Packaged: 2023-09-02 15:56:14 UTC; SDL96354
 Author: Stéphane Laurent [aut, cre],
   Wojciech Maj [cph] (author of the 'React-DateTimeRange-Picker' library)
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Repository: CRAN
-Date/Publication: 2023-04-18 14:30:17 UTC
+Date/Publication: 2023-09-03 06:10:09 UTC
